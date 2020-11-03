@@ -1,6 +1,4 @@
-package CodeWarProblems.src;
 
-import java.util.Scanner;
 
 class EveryOther{
 

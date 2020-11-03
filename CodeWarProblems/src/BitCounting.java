@@ -1,4 +1,4 @@
-package CodeWarProblems.src;
+
 
 public class BitCounting {
     public BitCounting(){
